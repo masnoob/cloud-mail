@@ -1,4 +1,5 @@
 name: 🚀 Deploy cloud-mail to Cloudflare Workers
+# Fork-owned deployment workflow for masnoob/cloud-mail.
 
 on:
   push:
